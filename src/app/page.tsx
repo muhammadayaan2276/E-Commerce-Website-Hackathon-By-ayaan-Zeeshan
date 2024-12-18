@@ -11,7 +11,7 @@ import Ourblogs from './component/Ourblogs';
 const Home = () => {
   return (
     <div>
-    abcd
+  
       
    <Hero/>
     <Gallery/>
